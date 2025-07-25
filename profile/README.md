@@ -1,7 +1,7 @@
 # 🧠 IVYO — AI-Powered Interviewer  
 > Built different. Built for Gen Z.
 
-![Banner](../ivyo-banner.png)
+![Banner](../banner.png)
 
 Welcome to **IVYO**, the AI that grills you like a recruiter, vibes like a peer, and preps you like a pro. Whether it’s your first job or your fifth pivot, IVYO tailors interview questions based on **your resume** and the **job you’re gunning for**. No fluff. Just smart prep.
 
